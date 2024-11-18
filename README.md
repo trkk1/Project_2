@@ -1,4 +1,5 @@
 Project 2 - This project will create a simple Theater Booking System. It allows users to view shows, book tickets, and manage their bookings. The program will use arrays, pointers, structures, enumerations, and file operations to store and manage data.
+
 Features
 View Available Shows:
 Users can view a list of available movies, including their titles, showtimes, and ticket prices.
