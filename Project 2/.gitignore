@@ -1,0 +1,33 @@
+# Xcode
+build/
+DerivedData/
+.idea/
+xcuserdata/
+*.xccheckout
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcuserdata/
+*.hmap
+*.xcscheme
+*.xcuserstate
+.DS_Store
+Thumbs.db
+
+# Swift Package Manager
+/.build/
+/Package.pins
+/Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Xcode Server
+.xcactivitylog
